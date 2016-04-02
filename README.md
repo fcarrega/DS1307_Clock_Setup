@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This small sketch initializes a DS1307 real time clock (RCT) with provided parameters (date, time, etc.). Useful to initialize your component before using it in a custom project.
+This small sketch initializes a DS1307 real time clock (RCT) with provided parameters (date, time, etc.). Useful to initialize your component before using it in a custom Arduino project.
 
 
 ## Dependencies
